@@ -1,19 +1,19 @@
 {
-    "version": "0.9.5",
+    "version": "0.9.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/pomdtr/sunbeam/releases/download/v0.9.5/sunbeam_Windows_i386.tar.gz",
+            "url": "https://github.com/pomdtr/sunbeam/releases/download/v0.9.6/sunbeam_Windows_i386.tar.gz",
             "bin": [
                 "sunbeam.exe"
             ],
-            "hash": "f7619ee820bb9519cadf2cdef2480cbf1db656fc90684613df26b53775ef0040"
+            "hash": "5d5dbcab0e05f7cb693727f14d43a5adfa4666b342703cbb31481c6fda7de877"
         },
         "64bit": {
-            "url": "https://github.com/pomdtr/sunbeam/releases/download/v0.9.5/sunbeam_Windows_x86_64.tar.gz",
+            "url": "https://github.com/pomdtr/sunbeam/releases/download/v0.9.6/sunbeam_Windows_x86_64.tar.gz",
             "bin": [
                 "sunbeam.exe"
             ],
-            "hash": "38f51afd2dfa8376f789098c6861455308209b32c1c81c0fc991892384e4ced0"
+            "hash": "f6b48e612d14828edecb822a482e4f4decfeede2cef95664e56f2402d6506080"
         }
     },
     "homepage": "https://pomdtr.github.io/sunbeam",
