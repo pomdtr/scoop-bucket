@@ -1,26 +1,26 @@
 {
-    "version": "1.0.0-exp2",
+    "version": "1.0.0-rc26",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/pomdtr/sunbeam/releases/download/v1.0.0-exp2/sunbeam_1.0.0-exp2_windows_386.zip",
+            "url": "https://github.com/pomdtr/sunbeam/releases/download/v1.0.0-rc26/sunbeam_1.0.0-rc26_windows_386.zip",
             "bin": [
                 "sunbeam.exe"
             ],
-            "hash": "234156a4939a589c5ad13733e9a5fd87b9c0fda398a3d2a0bb01fe7deb7d6316"
+            "hash": "116ae18c366320748038cfde780d940d0d86b61de589e9846d2b3dceb295a2f5"
         },
         "64bit": {
-            "url": "https://github.com/pomdtr/sunbeam/releases/download/v1.0.0-exp2/sunbeam_1.0.0-exp2_windows_amd64.zip",
+            "url": "https://github.com/pomdtr/sunbeam/releases/download/v1.0.0-rc26/sunbeam_1.0.0-rc26_windows_amd64.zip",
             "bin": [
                 "sunbeam.exe"
             ],
-            "hash": "ad5ed60e98834ffd80d0db03b5f906b47ffed9d488e759e013c11cfa99610472"
+            "hash": "eb114f33e3afecdb21a48075b6711f3b92f16da7dba1efbc75a201c0f119135f"
         },
         "arm64": {
-            "url": "https://github.com/pomdtr/sunbeam/releases/download/v1.0.0-exp2/sunbeam_1.0.0-exp2_windows_arm64.zip",
+            "url": "https://github.com/pomdtr/sunbeam/releases/download/v1.0.0-rc26/sunbeam_1.0.0-rc26_windows_arm64.zip",
             "bin": [
                 "sunbeam.exe"
             ],
-            "hash": "c1f875802e467a052ddbd90b0cb16b84b75e3474680c193510e00adb48dc1395"
+            "hash": "04b85f29685b7183813ad04ead05bd165edd94ec43760acf7d6078fefd8848fa"
         }
     },
     "homepage": "https://pomdtr.github.io/sunbeam",
