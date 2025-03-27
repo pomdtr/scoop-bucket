@@ -1,26 +1,26 @@
 {
-    "version": "0.25.0-docker.1",
+    "version": "0.25.0-docker.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/pomdtr/smallweb/releases/download/v0.25.0-docker.1/smallweb_Windows_i386.tar.gz",
+            "url": "https://github.com/pomdtr/smallweb/releases/download/v0.25.0-docker.2/smallweb_Windows_i386.tar.gz",
             "bin": [
                 "smallweb.exe"
             ],
-            "hash": "592414d9bd8051698893d1f070b7af57c8cc7a5349c1cf84664bf4c8166705c3"
+            "hash": "686b80be27ac7ab0069cdb2456df86868a40a40835563469cfc1dd1f21292c23"
         },
         "64bit": {
-            "url": "https://github.com/pomdtr/smallweb/releases/download/v0.25.0-docker.1/smallweb_Windows_x86_64.tar.gz",
+            "url": "https://github.com/pomdtr/smallweb/releases/download/v0.25.0-docker.2/smallweb_Windows_x86_64.tar.gz",
             "bin": [
                 "smallweb.exe"
             ],
-            "hash": "cb845c5d0a22ef04b2ae1ac4b7fa1475aa9f987b446115df4bc924f1b0396daa"
+            "hash": "da5bfceb7f63067201c2bf03a6c7a9c586a9ff691883afb04b944df66d121a9a"
         },
         "arm64": {
-            "url": "https://github.com/pomdtr/smallweb/releases/download/v0.25.0-docker.1/smallweb_Windows_arm64.tar.gz",
+            "url": "https://github.com/pomdtr/smallweb/releases/download/v0.25.0-docker.2/smallweb_Windows_arm64.tar.gz",
             "bin": [
                 "smallweb.exe"
             ],
-            "hash": "fa8c2289f02d6288de36136a0d6e7e4d2a856b3465ca4104d001bdb846416994"
+            "hash": "11ba515d71083268f2be76b84ca022c2712feacc287f6dab7c4c860b2fe9c944"
         }
     },
     "homepage": "https://smallweb.run",
