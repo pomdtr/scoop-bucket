@@ -1,26 +1,26 @@
 {
-    "version": "0.27.8",
+    "version": "0.27.9",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/pomdtr/smallweb/releases/download/v0.27.8/smallweb_Windows_i386.tar.gz",
+            "url": "https://github.com/pomdtr/smallweb/releases/download/v0.27.9/smallweb_Windows_i386.tar.gz",
             "bin": [
                 "smallweb.exe"
             ],
-            "hash": "7bad20af8ac4c80dba898953565ecb50ecfb580fa877160daf92593c144adf6b"
+            "hash": "6ecbdd7758581effe0480c0b580e93dd1cab8297aa75f63b375dddc7b8cc25a8"
         },
         "64bit": {
-            "url": "https://github.com/pomdtr/smallweb/releases/download/v0.27.8/smallweb_Windows_x86_64.tar.gz",
+            "url": "https://github.com/pomdtr/smallweb/releases/download/v0.27.9/smallweb_Windows_x86_64.tar.gz",
             "bin": [
                 "smallweb.exe"
             ],
-            "hash": "72fda9271811aa08b1ea9c1c231dc99349c772c6db16ff214dd0a4ea61ee120b"
+            "hash": "a846bf1029991954df9bdd99843fb7549723444f20e60c55a14bc28637858aea"
         },
         "arm64": {
-            "url": "https://github.com/pomdtr/smallweb/releases/download/v0.27.8/smallweb_Windows_arm64.tar.gz",
+            "url": "https://github.com/pomdtr/smallweb/releases/download/v0.27.9/smallweb_Windows_arm64.tar.gz",
             "bin": [
                 "smallweb.exe"
             ],
-            "hash": "9a30eee86eef157d2ad8b15e4621e779beb0a8d64a726345e0e1edab977f0dc3"
+            "hash": "83badd938310c5e3e9156196a4403259cbb957f3bfa43f8fc905ac6ca3b3cb38"
         }
     },
     "homepage": "https://smallweb.run",
